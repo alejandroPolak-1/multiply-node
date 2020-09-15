@@ -7,7 +7,7 @@
 
 ### 'create' 
 to create a file with the selected parameters. 
-### list' 
+### 'list' 
 to list the result but without creating a file
 
 ## Params to require 
