@@ -10,7 +10,7 @@ to create a file with the selected parameters.
 ### 'list' 
 to list the result but without creating a file
 
-## Params to require 
+### Params to require 
 `--base ` o `-b` is first factor to multiply
 `--limite` o `l` is the upper limit the second factor of multiply
 ### The value of the params is a number
